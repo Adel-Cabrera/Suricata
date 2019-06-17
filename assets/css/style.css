@@ -1,0 +1,117 @@
+html {
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  width: 100vw;
+  height: 100vh;
+}
+
+.suri-productos1 {
+  padding-bottom: 0!important;
+}
+
+.suri-productos2 {
+  padding-top: 0!important;
+}
+
+.suri-footer {
+  margin-top: 3em;
+}
+
+
+h1 {
+  font-weight: bold;
+  font-size: 60px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+h5 {
+  font-weight: bold;
+  font-size: 17px;
+}
+
+p {
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.card-footer p {
+  font-weight: 400;
+  font-size: 11px;
+
+}
+
+a {
+  font-weight: 400;
+  font-size: 11px;
+
+}
+
+.descrip {
+  font-weight: 400;
+  font-size: 11px;
+}
+
+li a {
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#card-footer a {
+  font-weight: 400;
+  font-size: 11px;
+}
+
+i {
+  color: var(--white);
+  padding-right: 10px;
+}
+
+.img-nav-bar {
+  width: 132px;
+}
+
+.img-footer{
+  width: 53px;
+}
+
+.icons-section {
+  background-color: #17a2b8;
+}
+
+.suri {
+  background-color: #e83e8c;
+}
+
+.carousel-indicators {
+  top: 50px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+/*
+
+@media (max-width: 576px) {
+  .icons-section {
+    visibility: hidden;
+  }
+}
+
+@media (min-width: 768px) {
+  .icons-section {
+    visibility: visible;
+  }
+}
+
+*/
